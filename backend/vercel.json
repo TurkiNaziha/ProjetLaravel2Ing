@@ -13,7 +13,7 @@
     "env": {
     "APP_ENV": "production",
     "APP_DEBUG": "true",
-    "APP_URL": "https://vercel.com/hsanhachichagmailcoms-projects",
+    "APP_URL": "https://vercel.com/turki-nazihas-projects",
     "APP_KEY": "base64:u9tkhdMnIX/WIP1KBMHO86C+lang6z3OUfTsJO6hHbA=",
     "APP_CONFIG_CACHE": "/tmp/config.php",
     "APP_EVENTS_CACHE": "/tmp/events.php",
